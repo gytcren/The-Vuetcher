@@ -95,6 +95,7 @@ const app = Vue.createApp({
       this.monsterHealth = 100
       this.winner = null
       this.specialAttackCountdown = 3
+      this.swallowUses = 0
       this.logMessages = []
       this.hasFled = false
     },
