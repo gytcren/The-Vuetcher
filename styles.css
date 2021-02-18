@@ -84,8 +84,8 @@ button:focus {
 
 button:hover,
 button:active {
-  background-color: #af0a78;
-  border-color: #af0a78;
+  background-color: #c0c0c0;
+  border-color: #314b75;
   box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.26);
 }
 
